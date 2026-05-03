@@ -1,4 +1,3 @@
-# System-Health-Monitor
 # System Health Monitor 🚀
 
 A simple and efficient Bash script to monitor your system's vital signs.
