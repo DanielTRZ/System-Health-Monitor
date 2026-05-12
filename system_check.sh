@@ -5,7 +5,6 @@
 # Autor: Daniel
 # ==========================================
 
-
 # Kolory dla lepszej widoczności
 GREEN='\033[0;32m'
 RED='\033[0;31m'
